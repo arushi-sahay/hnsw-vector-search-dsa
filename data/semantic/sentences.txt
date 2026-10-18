@@ -1,0 +1,48 @@
+Approximate nearest neighbor search retrieves vectors that are close to a query without comparing every vector in the collection.
+HNSW builds a hierarchy of proximity graphs to speed up vector similarity search.
+A vector database stores numerical representations of data and searches for the most similar items.
+Increasing the search effort can improve recall but usually increases query latency.
+Brute force search compares a query against every stored vector to find the exact nearest neighbors.
+Semantic search finds documents with related meanings even when they use different words.
+Sentence embeddings represent the meaning of text as a fixed length numerical vector.
+Cosine similarity measures the angle between two vectors and is often used for text embeddings.
+A neural network learns patterns from examples during training.
+Overfitting happens when a model performs well on training data but poorly on unseen examples.
+Classification predicts a category while regression predicts a numerical value.
+A validation dataset helps choose model settings without using the final test data.
+A GPU accelerates neural network training by performing many matrix operations in parallel.
+Feature normalization can improve the numerical behavior of machine learning algorithms.
+An operating system manages processes, memory, files, and access to hardware.
+A process is a running program with its own virtual address space.
+A thread is an execution path within a process, and threads may share process memory.
+A mutex protects shared state from simultaneous access by multiple threads.
+Virtual memory gives processes the illusion of a large continuous address space.
+Caching keeps frequently used data closer to the processor to reduce access latency.
+A relational database organizes information in tables connected through keys.
+A SQL query retrieves or modifies records in a relational database.
+A database index helps locate rows quickly without scanning the entire table.
+Normalization reduces redundant data and helps maintain database consistency.
+A document database stores records in flexible document-like structures.
+Cloud computing provides on-demand access to compute, storage, and networking resources.
+Kubernetes schedules containers on a cluster and restarts workloads when needed.
+Horizontal scaling adds more service replicas to handle increasing request volume.
+A load balancer distributes incoming requests across several application instances.
+A message queue buffers incoming work so services can process tasks at a controlled rate.
+Container images package an application and its dependencies into a portable unit.
+The Sun emits plasma and magnetic fields that can produce coronal mass ejections.
+A coronal mass ejection sends a large cloud of magnetized plasma into interplanetary space.
+Solar storms can disturb Earth's magnetosphere and affect radio communication.
+Astronomers analyze telescope images to detect and study transient solar events.
+The Aditya-L1 mission observes the Sun from a halo orbit around the first Lagrange point.
+Boiling pasta in salted water softens it before the sauce is added.
+Fresh spinach wilts quickly when stirred into hot pasta with olive oil and garlic.
+A lemon and spinach pasta can be finished with parmesan and black pepper.
+A balanced dinner can combine carbohydrates, vegetables, and a source of protein.
+Rain clouds form when moist air cools and water vapor condenses into droplets.
+A bicycle uses pedals and gears to convert human effort into forward motion.
+Regular exercise can improve cardiovascular endurance and overall fitness.
+A train carries passengers between stations along a railway network.
+Photosynthesis lets plants convert light energy into chemical energy.
+A secure password should be long and unique for each account.
+Encryption makes information unreadable to people who do not possess the correct key.
+Version control records changes to source code and helps developers collaborate.

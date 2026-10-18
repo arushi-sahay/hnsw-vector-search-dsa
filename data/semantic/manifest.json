@@ -1,0 +1,14 @@
+{
+  "model": "sentence-transformers/all-MiniLM-L6-v2",
+  "vector_count": 48,
+  "embedding_dimension": 384,
+  "normalized": true,
+  "normalization": "L2",
+  "distance_metric": "euclidean",
+  "ranking_note": "For L2-normalized vectors, minimizing Euclidean distance produces the same ranking as maximizing cosine similarity.",
+  "vector_format": "Headerless CSV; one vector per row, values separated by commas.",
+  "row_mapping": "Vector row i corresponds to line i of sentences.txt; IDs are zero-based.",
+  "sentences_file": "sentences.txt",
+  "vectors_file": "embeddings.csv",
+  "sentence_transformers_version": "6.1.0"
+}
